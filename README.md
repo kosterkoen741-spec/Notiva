@@ -14,8 +14,28 @@
 - 🚀 **Fast & Lightweight:** Instant startup with zero bloatware.
 - 🎨 **Minimalist Design:** Clean, intuitive UI optimized for focus.
 - ✏️ **Effortless Note Management:** Quickly create, edit, organize, and delete notes.
+- 🌍 **Multilingual Support:** Fully translated into 12 major languages.
 - 🔒 **Privacy Focused:** Your notes stay on your device.
 - 🛠️ **100% Open Source:** Fully transparent and open for community contributions.
+
+---
+
+## 🌍 Meertalig / Multilingual Support
+
+Notiva is vertaald in / translated into:
+
+- 🇳🇱 **Nederlands** (Dutch)
+- 🇬🇧 **Engels** (English)
+- 🇩🇪 **Duits** (German)
+- 🇫🇷 **Frans** (French)
+- 🇪🇸 **Spaans** (Spanish)
+- 🇵🇹 **Portugees** (Portuguese)
+- 🇮🇩 **Indonesisch** (Indonesian)
+- 🇸🇦 **Arabisch** (Arabic)
+- 🇷🇺 **Russisch** (Russian)
+- 🇮🇳 **Hindi**
+- 🇧🇩 **Bengaals** (Bengali)
+- 🇨🇳 **Chinees** (Chinese)
 
 ---
 
