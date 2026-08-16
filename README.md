@@ -22,7 +22,7 @@
 
 ## 🌍 Multilingual Support
 
-Notiva is vertaald in / translated into:
+Notiva is translated into:
 
 - 🇳🇱 **Nederlands** (Dutch)
 - 🇬🇧 **Engels** (English)
