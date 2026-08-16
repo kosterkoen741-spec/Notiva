@@ -24,18 +24,18 @@
 
 Notiva is translated into:
 
-- 🇳🇱 **Nederlands** (Dutch)
-- 🇬🇧 **Engels** (English)
-- 🇩🇪 **Duits** (German)
-- 🇫🇷 **Frans** (French)
-- 🇪🇸 **Spaans** (Spanish)
-- 🇵🇹 **Portugees** (Portuguese)
-- 🇮🇩 **Indonesisch** (Indonesian)
-- 🇸🇦 **Arabisch** (Arabic)
-- 🇷🇺 **Russisch** (Russian)
+- 🇳🇱 **Dutch**
+- 🇬🇧 **English**
+- 🇩🇪 **German**
+- 🇫🇷 **French**
+- 🇪🇸 **Spanish**
+- 🇵🇹 **Portuguese**
+- 🇮🇩 **Indonesian**
+- 🇸🇦 **Arabic**
+- 🇷🇺 **Russian**
 - 🇮🇳 **Hindi**
-- 🇧🇩 **Bengaals** (Bengali)
-- 🇨🇳 **Chinees** (Chinese)
+- 🇧🇩 **Bengali**
+- 🇨🇳 **Chinese**
 
 ---
 
