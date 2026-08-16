@@ -20,7 +20,7 @@
 
 ---
 
-## 🌍 Meertalig / Multilingual Support
+## 🌍 Multilingual Support
 
 Notiva is vertaald in / translated into:
 
