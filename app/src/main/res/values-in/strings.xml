@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Notiva</string>
+    <string name="menu_notes">Catatan</string>
+    <string name="menu_help">Bantuan</string>
+    <string name="menu_settings">Pengaturan</string>
+    <string name="menu_info">Info</string>
+    <string name="settings_title">Pengaturan</string>
+    <string name="settings_dark_mode">Mode Gelap</string>
+    <string name="settings_language">Bahasa</string>
+    <string name="help_title">Bantuan</string>
+    <string name="help_welcome">Selamat datang di Notiva! Di sini Anda dapat menyimpan semua catatan Anda dengan aman.</string>
+    <string name="help_add_note">Gunakan tombol + untuk menambah catatan baru.</string>
+    <string name="help_delete_note">Ketuk ikon tempat sampah untuk menghapus catatan.</string>
+    <string name="info_title">Info</string>
+    <string name="info_version">Versi 1.1</string>
+    <string name="info_author">Oleh Koenraad Koster</string>
+    <string name="info_description">Pengalaman aplikasi catatan yang unik.</string>
+    <string name="info_footer">Versi 1.1 - Oleh Koenraad Koster</string>
+    <string name="notes_add_note_desc">Tambah catatan</string>
+    <string name="notes_delete_desc">Hapus</string>
+    <string name="notes_new_note">Catatan Baru</string>
+    <string name="notes_close_desc">Tutup</string>
+    <string name="notes_save">Simpan</string>
+    <string name="notes_title_label">Judul</string>
+    <string name="notes_content_label">Isi</string>
+    <string name="notes_cancel">Batal</string>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Notiva</string>
+    <string name="menu_notes">笔记</string>
+    <string name="menu_help">帮助</string>
+    <string name="menu_settings">设置</string>
+    <string name="menu_info">信息</string>
+    <string name="settings_title">设置</string>
+    <string name="settings_dark_mode">深色模式</string>
+    <string name="settings_language">语言</string>
+    <string name="help_title">帮助</string>
+    <string name="help_welcome">欢迎来到 Notiva！在这里您可以安全地存储所有笔记。</string>
+    <string name="help_add_note">使用 + 按钮添加新笔记。</string>
+    <string name="help_delete_note">点击垃圾桶图标删除笔记。</string>
+    <string name="info_title">信息</string>
+    <string name="info_version">版本 1.1</string>
+    <string name="info_author">作者：Koenraad Koster</string>
+    <string name="info_description">独特的笔记应用体验。</string>
+    <string name="info_footer">版本 1.1 - 作者：Koenraad Koster</string>
+    <string name="notes_add_note_desc">添加笔记</string>
+    <string name="notes_delete_desc">删除</string>
+    <string name="notes_new_note">新笔记</string>
+    <string name="notes_close_desc">关闭</string>
+    <string name="notes_save">保存</string>
+    <string name="notes_title_label">标题</string>
+    <string name="notes_content_label">内容</string>
+    <string name="notes_cancel">取消</string>
+</resources>

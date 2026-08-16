@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Notiva</string>
+    <string name="menu_notes">नोट्स</string>
+    <string name="menu_help">सहायता</string>
+    <string name="menu_settings">सेटिंग्स</string>
+    <string name="menu_info">जानकारी</string>
+    <string name="settings_title">सेटिंग्स</string>
+    <string name="settings_dark_mode">डार्क मोड</string>
+    <string name="settings_language">भाषा</string>
+    <string name="help_title">सहायता</string>
+    <string name="help_welcome">Notiva में आपका स्वागत है! यहाँ आप अपने सभी नोट्स सुरक्षित रूप से रख सकते हैं।</string>
+    <string name="help_add_note">नया नोट जोड़ने के लिए + बटन का उपयोग करें।</string>
+    <string name="help_delete_note">नोट हटाने के लिए कचरा पात्र आइकन पर टैप करें।</string>
+    <string name="info_title">जानकारी</string>
+    <string name="info_version">संस्करण 1.1</string>
+    <string name="info_author">कोनराड कोस्टर द्वारा</string>
+    <string name="info_description">एक अनूठा नोट ऐप अनुभव।</string>
+    <string name="info_footer">संस्करण 1.1 - कोनराड कोस्टर द्वारा</string>
+    <string name="notes_add_note_desc">नोट जोड़ें</string>
+    <string name="notes_delete_desc">हटाएं</string>
+    <string name="notes_new_note">नया नोट</string>
+    <string name="notes_close_desc">बंद करें</string>
+    <string name="notes_save">सहेजें</string>
+    <string name="notes_title_label">शीर्षक</string>
+    <string name="notes_content_label">सामग्री</string>
+    <string name="notes_cancel">रद्द करें</string>
+</resources>

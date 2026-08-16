@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Notiva" parent="Theme.AppCompat.DayNight.NoActionBar" />
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#6200EE</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_notiva_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.Notiva</item>
+    </style>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Notiva</string>
+    <string name="menu_notes">নোট</string>
+    <string name="menu_help">সাহায্য</string>
+    <string name="menu_settings">সেটিংস</string>
+    <string name="menu_info">তথ্য</string>
+    <string name="settings_title">সেটিংস</string>
+    <string name="settings_dark_mode">ডার্ক মোড</string>
+    <string name="settings_language">ভাষা</string>
+    <string name="help_title">সাহায্য</string>
+    <string name="help_welcome">Notiva-তে আপনাকে স্বাগতম! এখানে আপনি আপনার সমস্ত নোট নিরাপদে সংরক্ষণ করতে পারেন।</string>
+    <string name="help_add_note">একটি নতুন নোট যোগ করতে + বোতামটি ব্যবহার করুন।</string>
+    <string name="help_delete_note">নোট মুছে ফেলতে ট্র্যাশ আইকনে ট্যাপ করুন।</string>
+    <string name="info_title">তথ্য</string>
+    <string name="info_version">সংস্করণ ১.১</string>
+    <string name="info_author">কোয়েনরাড কোস্টার দ্বারা</string>
+    <string name="info_description">একটি অনন্য নোট অ্যাপ অভিজ্ঞতা।</string>
+    <string name="info_footer">সংস্করণ ১.১ - কোয়েনরাড কোস্টার দ্বারা</string>
+    <string name="notes_add_note_desc">নোট যোগ করুন</string>
+    <string name="notes_delete_desc">মুছে ফেলুন</string>
+    <string name="notes_new_note">নতুন নোট</string>
+    <string name="notes_close_desc">বন্ধ করুন</string>
+    <string name="notes_save">সংরক্ষণ করুন</string>
+    <string name="notes_title_label">শিরোনাম</string>
+    <string name="notes_content_label">বিষয়বস্তু</string>
+    <string name="notes_cancel">বাতিল</string>
+</resources>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">نوتيفا</string>
+    <string name="menu_notes">ملاحظات</string>
+    <string name="menu_help">مساعدة</string>
+    <string name="menu_settings">الإعدادات</string>
+    <string name="menu_info">معلومات</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="settings_dark_mode">الوضع الداكن</string>
+    <string name="settings_language">اللغة</string>
+    <string name="help_title">مساعدة</string>
+    <string name="help_welcome">مرحباً بك في نوتيفا! هنا يمكنك تخزين جميع ملاحظاتك بأمان.</string>
+    <string name="help_add_note">استخدم زر + لإضافة ملاحظة جديدة.</string>
+    <string name="help_delete_note">اضغط على أيقونة السلة لحذف الملاحظة.</string>
+    <string name="info_title">معلومات</string>
+    <string name="info_version">الإصدار 1.1</string>
+    <string name="info_author">بواسطة كونراد كوستر</string>
+    <string name="info_description">تجربة فريدة لتطبيق الملاحظات.</string>
+    <string name="info_footer">الإصدار 1.1 - بواسطة كونراد كوستر</string>
+    <string name="notes_add_note_desc">إضافة ملاحظة</string>
+    <string name="notes_delete_desc">حذف</string>
+    <string name="notes_new_note">ملاحظة جديدة</string>
+    <string name="notes_close_desc">إغلاق</string>
+    <string name="notes_save">حفظ</string>
+    <string name="notes_title_label">العنوان</string>
+    <string name="notes_content_label">المحتوى</string>
+    <string name="notes_cancel">إلغاء</string>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Notiva</string>
+    <string name="menu_notes">Notities</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_settings">Instellingen</string>
+    <string name="menu_info">Info</string>
+
+    <string name="settings_title">Instellingen</string>
+    <string name="settings_dark_mode">Donkere Modus</string>
+    <string name="settings_language">Taal</string>
+
+    <string name="help_title">Help</string>
+    <string name="help_welcome">Welkom bij Notiva! Hier kun je al je notities veilig opslaan.</string>
+    <string name="help_add_note">Gebruik de + knop om een nieuwe notitie toe te voegen.</string>
+    <string name="help_delete_note">Tik op het prullenbak icoon om een notitie te verwijderen.</string>
+
+    <string name="info_title">Info</string>
+    <string name="info_version">Versie 1.1</string>
+    <string name="info_author">Door Koenraad Koster</string>
+    <string name="info_description">Een unieke notitie app ervaring.</string>
+    <string name="info_footer">Versie 1.1 - Door Koenraad Koster</string>
+
+    <string name="notes_add_note_desc">Notitie toevoegen</string>
+    <string name="notes_delete_desc">Verwijderen</string>
+    <string name="notes_new_note">Nieuwe Notitie</string>
+    <string name="notes_close_desc">Sluiten</string>
+    <string name="notes_save">Opslaan</string>
+    <string name="notes_title_label">Titel</string>
+    <string name="notes_content_label">Inhoud</string>
+    <string name="notes_cancel">Annuleren</string>
+</resources>

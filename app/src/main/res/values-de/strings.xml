@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Notiva</string>
+    <string name="menu_notes">Notizen</string>
+    <string name="menu_help">Hilfe</string>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="menu_info">Info</string>
+    <string name="settings_title">Einstellungen</string>
+    <string name="settings_dark_mode">Dunkelmodus</string>
+    <string name="settings_language">Sprache</string>
+    <string name="help_title">Hilfe</string>
+    <string name="help_welcome">Willkommen bei Notiva! Hier können Sie alle Ihre Notizen sicher speichern.</string>
+    <string name="help_add_note">Verwenden Sie die +-Taste, um eine neue Notiz hinzuzufügen.</string>
+    <string name="help_delete_note">Tippen Sie auf das Mülleimer-Symbol, um eine Notiz zu löschen.</string>
+    <string name="info_title">Info</string>
+    <string name="info_version">Version 1.1</string>
+    <string name="info_author">Von Koenraad Koster</string>
+    <string name="info_description">Ein einzigartiges Notizen-App-Erlebnis.</string>
+    <string name="info_footer">Version 1.1 - Von Koenraad Koster</string>
+    <string name="notes_add_note_desc">Notiz hinzufügen</string>
+    <string name="notes_delete_desc">Löschen</string>
+    <string name="notes_new_note">Neue Notiz</string>
+    <string name="notes_close_desc">Schließen</string>
+    <string name="notes_save">Speichern</string>
+    <string name="notes_title_label">Titel</string>
+    <string name="notes_content_label">Inhalt</string>
+    <string name="notes_cancel">Abbrechen</string>
+</resources>

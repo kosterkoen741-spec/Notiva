@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Notiva</string>
+    <string name="menu_notes">Заметки</string>
+    <string name="menu_help">Помощь</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_info">Инфо</string>
+    <string name="settings_title">Настройки</string>
+    <string name="settings_dark_mode">Темная тема</string>
+    <string name="settings_language">Язык</string>
+    <string name="help_title">Помощь</string>
+    <string name="help_welcome">Добро пожаловать в Notiva! Здесь вы можете надежно хранить все свои заметки.</string>
+    <string name="help_add_note">Используйте кнопку +, чтобы добавить новую заметку.</string>
+    <string name="help_delete_note">Нажмите на значок корзины, чтобы удалить заметку.</string>
+    <string name="info_title">Инфо</string>
+    <string name="info_version">Версия 1.1</string>
+    <string name="info_author">Автор: Кунрад Костер</string>
+    <string name="info_description">Уникальный опыт использования приложения для заметок.</string>
+    <string name="info_footer">Версия 1.1 - Автор: Кунрад Костер</string>
+    <string name="notes_add_note_desc">Добавить заметку</string>
+    <string name="notes_delete_desc">Удалить</string>
+    <string name="notes_new_note">Новая заметка</string>
+    <string name="notes_close_desc">Закрыть</string>
+    <string name="notes_save">Сохранить</string>
+    <string name="notes_title_label">Заголовок</string>
+    <string name="notes_content_label">Содержание</string>
+    <string name="notes_cancel">Отмена</string>
+</resources>
